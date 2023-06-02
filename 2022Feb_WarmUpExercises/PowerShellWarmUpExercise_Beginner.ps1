@@ -2,6 +2,7 @@
 <#
 Beginner
 Write PowerShell code to take a string like ‘PowerShell’ and display it in reverse. Your solution can be a simple script or function.
+Comment edited as an SC test
 #>
 
 filter Invoke-ReverseString ([string]$str)
